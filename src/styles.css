@@ -1,0 +1,17 @@
+.nav-item.active {
+       
+}
+
+.nav-item.active h4{
+    color: lightcoral;
+    border-bottom: 1px solid red;
+    padding: 4px 4px 4px;
+    
+}
+
+.nav-item h4{
+    color: grey;
+    font-size: large;
+    padding: 4px 4px 4px;
+    
+}
